@@ -1,2 +1,2 @@
 # Discord-Bot
-Bots I coded to make my life easier.
+Discord bots I coded to make my life easier.
